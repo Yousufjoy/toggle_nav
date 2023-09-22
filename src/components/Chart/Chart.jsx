@@ -23,3 +23,5 @@ const Chart = () => {
 };
 
 export default Chart;
+
+// Axios data load korte
